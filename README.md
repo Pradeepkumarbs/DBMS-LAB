@@ -92,7 +92,7 @@ Company Database
   PROJECT (PNo int, PName string, PLocation string, DNo int)
   WORKS_ON (SSN int, PNo int, Hours int)
 
-Queries
+Queries, View and Trigger
 
 1.Make a list of all project numbers for projects that involve an employee whose last name is ‘Scott’, either as a worker or as a manager of the department that controls the project.
 2.Show the resulting salaries if every employee working on the ‘IoT’ project is given a 10 percent raise.
