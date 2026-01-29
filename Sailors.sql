@@ -3,7 +3,7 @@ USE sailors;
 
 -- Create SAILORS table
 CREATE TABLE SAILORS (
-    sid INT PRIMARY KEY,
+    sid INT PRIMARY KEY, 
     sname VARCHAR(50),
     rating INT,
     age INT
