@@ -4,7 +4,7 @@ Programs for DBMS LAB @JSSSTU
 
 List of Programs 
 
-Sailors Database
+Sailors Database 
 
 1. Consider the database schemas given below. Write ER diagram and schema diagram. The primary keys are underlined and the data types are specified. Create tables for the following schema listed below by properly specifying the primary keys and foreign keys. Enter at least five tuples for each relation.
   SAILORS (sid, sname, rating, age)
