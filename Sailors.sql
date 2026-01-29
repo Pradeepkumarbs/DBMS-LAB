@@ -1,5 +1,5 @@
 CREATE DATABASE sailors;
-USE sailors;
+USE sailors; 
 
 -- Create SAILORS table
 CREATE TABLE SAILORS (
