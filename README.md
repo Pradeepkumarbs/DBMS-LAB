@@ -1,4 +1,5 @@
-Programs for DBMS LAB @JSSSTU
+Programs for DBMS LAB
+@JSSSTU
 
 20CS57L Database Management Systems Laboratory
 
